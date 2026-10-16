@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 
 ### Personal Account
-![Personal Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferchomuri&show_icons=true&theme=tokyonight)
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=ferchomuri&show_icons=true&theme=tokyonight)
 
 ### Work Account
 ![Work Stats](https://github-readme-stats.vercel.app/api?username=fernandomurillo-ppm&show_icons=true&theme=tokyonight)
