@@ -49,7 +49,6 @@ Me apasiona construir soluciones mantenibles, optimizar procesos de desarrollo y
 ### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,15 +82,15 @@ Me apasiona construir soluciones mantenibles, optimizar procesos de desarrollo y
 
 ## 📊 GitHub Activity
 
-Mi actividad de desarrollo se distribuye entre mi cuenta personal y mi cuenta profesional, incluyendo contribuciones en proyectos privados y repositorios de organizaciones.
+Mi actividad se distribuye entre proyectos personales y profesionales, incluyendo contribuciones en repositorios privados.
 
 ### 👨‍💻 Personal Account — ferchomuri
 
-<div align="center">
+[![Personal GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferchomuri&theme=tokyonight)](https://github.com/ferchomuri)
 
-[![Personal Activity](https://github-readme-activity-graph.vercel.app/graph?username=ferchomuri&theme=tokyo-night&hide_border=true)](https://github.com/ferchomuri)
+### 💼 Professional Account — fernandomurillo-ppm
 
-[View Personal GitHub](https://github.com/ferchomuri)
+[![Professional GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandomurillo-ppm&theme=tokyonight)](https://github.com/fernandomurillo-ppm)
 
 </div>
 
