@@ -80,31 +80,19 @@ Me apasiona construir soluciones mantenibles, optimizar procesos de desarrollo y
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
 
-Mi actividad se distribuye entre proyectos personales y profesionales, incluyendo contribuciones en repositorios privados.
+Mi actividad de desarrollo se distribuye entre proyectos personales y profesionales, incluyendo contribuciones en repositorios privados.
 
 ### 👨‍💻 Personal Account — ferchomuri
 
-[![Personal GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferchomuri&theme=tokyonight)](https://github.com/ferchomuri)
+[![Personal Contributions](https://ghchart.xqsit94.in/dark:default/ferchomuri)](https://github.com/ferchomuri)
 
 ### 💼 Professional Account — fernandomurillo-ppm
 
-[![Professional GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandomurillo-ppm&theme=tokyonight)](https://github.com/fernandomurillo-ppm)
+[![Professional Contributions](https://ghchart.xqsit94.in/dark:default/fernandomurillo-ppm)](https://github.com/fernandomurillo-ppm)
 
-</div>
-
-### 💼 Professional Account — fernandomurillo-ppm
-
-<div align="center">
-
-[![Professional Activity](https://github-readme-activity-graph.vercel.app/graph?username=fernandomurillo-ppm&theme=tokyo-night&hide_border=true)](https://github.com/fernandomurillo-ppm)
-
-[View Professional GitHub](https://github.com/fernandomurillo-ppm)
-
-</div>
-
-> 🔒 Some professional contributions belong to private repositories. Their source code and internal details remain confidential.
+> 🔒 Las contribuciones privadas pueden aparecer de forma anonimizada, sin exponer el código ni los detalles internos de los repositorios.
 
 ---
 
